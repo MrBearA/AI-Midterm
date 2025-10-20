@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{61B82181-0AC5-4D7F-5ECF-E317EF1E8207}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.AI.Navigation.Samples", "Unity.AI.Navigation.Samples.csproj", "{6FBEB290-566D-3CAB-6286-3789911E892F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{91AE22D1-612D-1350-4833-F5E2D29647D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.AI.Navigation.Samples.Initialization.Editor", "Unity.AI.Navigation.Samples.Initialization.Editor.csproj", "{666CC89D-EF4B-EDAD-F001-E5C04FC9D608}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61B82181-0AC5-4D7F-5ECF-E317EF1E8207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B82181-0AC5-4D7F-5ECF-E317EF1E8207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B82181-0AC5-4D7F-5ECF-E317EF1E8207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B82181-0AC5-4D7F-5ECF-E317EF1E8207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FBEB290-566D-3CAB-6286-3789911E892F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FBEB290-566D-3CAB-6286-3789911E892F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FBEB290-566D-3CAB-6286-3789911E892F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FBEB290-566D-3CAB-6286-3789911E892F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91AE22D1-612D-1350-4833-F5E2D29647D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91AE22D1-612D-1350-4833-F5E2D29647D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91AE22D1-612D-1350-4833-F5E2D29647D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91AE22D1-612D-1350-4833-F5E2D29647D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{666CC89D-EF4B-EDAD-F001-E5C04FC9D608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{666CC89D-EF4B-EDAD-F001-E5C04FC9D608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{666CC89D-EF4B-EDAD-F001-E5C04FC9D608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{666CC89D-EF4B-EDAD-F001-E5C04FC9D608}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
